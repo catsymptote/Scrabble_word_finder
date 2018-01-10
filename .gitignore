@@ -1,3 +1,5 @@
 .idea/
 venv/
 dictionary/
+lig/__pycache__/
+*.pyc
