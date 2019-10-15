@@ -1,5 +1,4 @@
-from lib import dictionary
-from lib import word_finder
+from lib import finder
 
 import tkinter as tk
 
