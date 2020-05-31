@@ -2,7 +2,7 @@ from lib import dictionary
 
 
 
-class WordFinder:
+class Word_Finder:
     dic = dictionary.Dictionary()
     #print(dic.get_dic())
 
@@ -75,13 +75,10 @@ class WordFinder:
                 y -= 1
 
 
-
-
         #print("other")
         if(len(word) == 0):
             return True
         return False
-
 
 
 
